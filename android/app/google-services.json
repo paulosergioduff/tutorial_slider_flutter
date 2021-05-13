@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "215224316635",
+    "project_id": "feature-room-project",
+    "storage_bucket": "feature-room-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215224316635:android:2535cf45d7a3e1a33a52fe",
+        "android_client_info": {
+          "package_name": "com.example.carousel2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215224316635-i80bbqp67vjed3gbh76rtlvp8g1ojk40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2VhFr9R0BsERA2-P2rNEo9rBQUFuquUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215224316635-i80bbqp67vjed3gbh76rtlvp8g1ojk40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
